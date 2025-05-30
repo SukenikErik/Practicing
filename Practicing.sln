@@ -10,6 +10,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GymApp", "GymApp\GymApp.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Principles", "Principles\Principles.csproj", "{63532B9D-0ABC-40BF-9CEA-4FC04E317FC7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SelectiveWasteSystem", "SelectiveWasteSystem\SelectiveWasteSystem.csproj", "{A06F971F-B755-4381-8314-DF9368E24CA3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProjectRecycleBin", "TestProjectRecycleBin\TestProjectRecycleBin.csproj", "{4E4E5D08-0DB1-4105-9E25-98F0AF15C069}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -32,6 +36,14 @@ Global
 		{63532B9D-0ABC-40BF-9CEA-4FC04E317FC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{63532B9D-0ABC-40BF-9CEA-4FC04E317FC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{63532B9D-0ABC-40BF-9CEA-4FC04E317FC7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A06F971F-B755-4381-8314-DF9368E24CA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A06F971F-B755-4381-8314-DF9368E24CA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A06F971F-B755-4381-8314-DF9368E24CA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A06F971F-B755-4381-8314-DF9368E24CA3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4E4E5D08-0DB1-4105-9E25-98F0AF15C069}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E4E5D08-0DB1-4105-9E25-98F0AF15C069}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E4E5D08-0DB1-4105-9E25-98F0AF15C069}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E4E5D08-0DB1-4105-9E25-98F0AF15C069}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
